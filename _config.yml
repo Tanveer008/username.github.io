@@ -1,0 +1,17 @@
+title: "Tanvir Ali"
+description: "Statistician • Researcher • Data Analyst • Educator"
+theme: minima
+author:
+  name: "Tanvir Ali"
+  email: "alitanvirislam008@gmail.com"
+
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
+  - education.md
+  - skills.md
+  - awards.md
+  - certifications.md
+  - volunteering.md
+  - contact.md
